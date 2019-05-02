@@ -1,4 +1,4 @@
-# Student Academic Level Evaluation
+# Student's Academic Level Evaluation
 
 #### -- Project Status: Active
 
@@ -26,9 +26,8 @@ The Objective of the project is to make use of the XAPI data to classify the stu
 
 ### Technologies
 * Python(v3.7.0)
-* Pandas, jupyter
-* HTML
-* etc. 
+* Anaconda(v4.6.11)
+* Jupyter(v5.2.4) 
 
 For convenience it is suggested that you install Anaconda distribution for your respective OS.Anaconda comes with all the libraries preinstalled and all the major IDE and web applications.
 
@@ -52,7 +51,7 @@ The aim of this project is to determine the level of academic performance of the
 
 4. Different observations are made on the dataset and different ML models are used.
 
-5. Also try to make use of the libraries you are familiar with and try to improve the model.
+5. Also try to make use of the libraries you are familiar with and try to improve the model's prediction as much as possible.
 
 
 
