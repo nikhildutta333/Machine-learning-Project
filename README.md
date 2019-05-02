@@ -25,10 +25,7 @@ The Objective of the project is to make use of the XAPI data to classify the stu
 * Predictive Modeling
 
 ### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
+* Python(v3.7.0)
 * Pandas, jupyter
 * HTML
 * etc. 
@@ -43,24 +40,19 @@ The aim of this project is to determine the level of academic performance of the
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
+- Machine learning Algorithms
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
+2. After cloning, open the folder's directory using jupyter notebook,you should be able to open the project.ipynb inside it. 
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. Data processing/transformation scripts are available in jupyter notbook ipynb file
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+4. Different observations are made on the dataset and different ML models are used.
 
-5. Follow setup [instructions](Link to file)
+5. Also try to make use of the libraries you are familiar with and try to improve the model.
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
 
