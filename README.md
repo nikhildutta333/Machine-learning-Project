@@ -52,6 +52,3 @@ The aim of this project is to determine the level of academic performance of the
 4. Different observations are made on the dataset and different ML models are used.
 
 5. Also try to make use of the libraries you are familiar with and try to improve the model's prediction as much as possible.
-
-
-
